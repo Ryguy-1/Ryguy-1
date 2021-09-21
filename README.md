@@ -1,4 +1,5 @@
 [![Header](https://github.com/Ryguy-1/Ryguy-1/blob/main/Github%20Profile%20Pic.png?raw=true "Header")]()
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Ryguy-1)](https://github.com/Ryguy-1/github-readme-stats)
 
 
 
