@@ -12,7 +12,7 @@
   - 🔭 I’m currently working on: Learning React!
  </p>
 <p align="center">
-  - 📫 How to reach me: rylandbirchmeier@gmail.com
+  - 📫 How to reach me: rylandbirchmeier@gmail.com / zbp6dw@virginia.edu
 </p>
 <p align="center">
   - ⚡ Fun fact: I currently really like the person who thought of JSX
