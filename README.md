@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryland Birchmeier</h1>
-<h3 align="center">----- OCA Java, Python, and *Newly* a React Developer -----</h3>
+<h3 align="center">----- OCA Java, Python, and Student of Deep Learning -----</h3>
 
 
 
@@ -9,13 +9,13 @@
 
 
 <p align="center">
-  - 🔭 I’m currently working on: Learning React!
+  - 🔭 I’m currently working on: Building a Startup Called Hymn!
  </p>
 <p align="center">
   - 📫 How to reach me: rylandbirchmeier@gmail.com / zbp6dw@virginia.edu
 </p>
 <p align="center">
-  - ⚡ Fun fact: I currently really like the person who thought of JSX
+  - ⚡ Fun fact: Just Started using Weights and Biases and I really like it
 </p>
 
 
