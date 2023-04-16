@@ -9,13 +9,13 @@
 
 
 <p align="center">
-  - 🔭 I’m currently working on: Building a Startup Called Hymn!
+  - 🔭 I’m currently working on: Building a Generative Audio Startup Called Hymn!
  </p>
 <p align="center">
   - 📫 How to reach me: rylandbirchmeier@gmail.com / zbp6dw@virginia.edu
 </p>
 <p align="center">
-  - ⚡ Fun fact: Just Started using Weights and Biases and I really like it
+  - ⚡ Fun fact: Kubernetes Rating: 11/10
 </p>
 
 
