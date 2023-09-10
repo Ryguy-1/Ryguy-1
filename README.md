@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryland Birchmeier</h1>
-<h3 align="center">----- OCA Java, Python, and Student of Deep Learning -----</h3>
+<h3 align="center">----- Student of Deep Learning -----</h3>
 
 
 
