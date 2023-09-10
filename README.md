@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  - 🔭 I’m currently working on: Building a Generative Audio Startup Called Hymn!
+  - 🔭 I’m currently working on: Building a Music Analytics Tool for HymnAI Called Alpine!
  </p>
 <p align="center">
   - 📫 How to reach me: rylandbirchmeier@gmail.com / zbp6dw@virginia.edu
