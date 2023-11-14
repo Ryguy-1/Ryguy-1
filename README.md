@@ -9,13 +9,13 @@
 
 
 <p align="center">
-  - 🔭 I’m currently working on: Building a Music Analytics Tool for HymnAI Called Alpine!
+  - 🔭 I’m currently working on: LLM and more LLM because they're very cool :)
  </p>
 <p align="center">
   - 📫 How to reach me: rylandbirchmeier@gmail.com / zbp6dw@virginia.edu
 </p>
 <p align="center">
-  - ⚡ Fun fact: Kubernetes Rating: 11/10
+  - ⚡ Fun fact: Lambda is my favorite Greek letter
 </p>
 
 
