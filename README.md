@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryguy-1" alt="ryguy-1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryguy-1&theme=onedark" alt="ryguy-1" /></a> </p>
 
 
 
